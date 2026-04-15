@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Automobiles>
+    <Vehicle>
+        <VehicleID>V001</VehicleID>
+        <Brand>Toyota</Brand>
+        <Model>Corolla</Model>
+        <Year>2022</Year>
+        <Engine>
+            <Type>Petrol</Type>
+            <Capacity>1.8L</Capacity>
+        </Engine>
+        <Price currency="USD">22000</Price>
+        <Dealer>
+            <Name>AutoHub Motors</Name>
+            <City>Chennai</City>
+        </Dealer>
+    </Vehicle>
+    <Vehicle>
+        <VehicleID>V002</VehicleID>
+        <Brand>Honda</Brand>
+        <Model>Civic</Model>
+        <Year>2023</Year>
+        <Engine>
+            <Type>Diesel</Type>
+            <Capacity>2.0L</Capacity>
+        </Engine>
+        <Price currency="USD">25000</Price>
+        <Dealer>
+            <Name>Prime Cars</Name>
+            <City>Bangalore</City>
+        </Dealer>
+    </Vehicle>
+    <Vehicle>
+        <VehicleID>V003</VehicleID>
+        <Brand>Ford</Brand>
+        <Model>Mustang</Model>
+        <Year>2021</Year>
+        <Engine>
+            <Type>Petrol</Type>
+            <Capacity>5.0L</Capacity>
+        </Engine>
+        <Price currency="USD">55000</Price>
+        <Dealer>
+            <Name>Elite Autos</Name>
+            <City>Mumbai</City>
+        </Dealer>
+    </Vehicle>
+</Automobiles>

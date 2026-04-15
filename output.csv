@@ -1,0 +1,4 @@
+Engine_Type,Dealer_Name,VehicleID,Year,Model,Dealer_City,Engine_Capacity,Price,Brand
+Petrol,AutoHub Motors,V001,2022,Corolla,Chennai,1.8L,22000,Toyota
+Diesel,Prime Cars,V002,2023,Civic,Bangalore,2.0L,25000,Honda
+Petrol,Elite Autos,V003,2021,Mustang,Mumbai,5.0L,55000,Ford
