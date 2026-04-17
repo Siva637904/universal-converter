@@ -4,7 +4,7 @@ XML to CSV Converter
 This project converts XML data into CSV format using Python.  
 It supports nested XML elements and dynamic column generation.
 
-▶️ How to Run
+ How to Run
 
 1. Place your XML file as `test.xml` in the same folder
 2. Run the script:
